@@ -406,5 +406,6 @@ Esta optimización representa un caso de estudio de cómo aplicar principios de 
 **Autor**: Optimización realizada en diciembre 2025  
 **Proyecto**: PRIME Integraciones 1E - SAP ECC  
 **Base**: Vista original creada por TELLA Consulting (06/10/2025)
-#   v i s t a s _ o p t i m i z a d a s  
+#   v i s t a s _ o p t i m i z a d a s 
+ 
  
